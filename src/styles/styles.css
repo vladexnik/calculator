@@ -1,7 +1,7 @@
 body {
   background-color: rgb(195, 224, 253);
   height: 100vh;
-  /* animation: ani 2s forwards; */
+  animation: ani 2s forwards;
   transition: all 1s;
 }
 

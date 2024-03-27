@@ -1,5 +1,9 @@
 # Calculator
 
+## Task
+
+https://dropfiles.org/hMnLGYuN
+
 ## Deploy
 
 https://calculator22nv.netlify.app
@@ -12,6 +16,10 @@ Install npm-packages with next command:
 $ npm install
 ```
 
+```sh
+$ npm run prepare
+```
+
 To run the app in development mode:
 
 ```sh
@@ -20,10 +28,8 @@ $ npm run start
 
 And in the link http://localhost:8080 open the app
 
-To run the app in production mode, make the build of the app entering:
+To make the build of the app enter:
 
 ```sh
 $ npm run build
 ```
-
-And run this build with the help of Live Server
